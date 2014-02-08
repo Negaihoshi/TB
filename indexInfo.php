@@ -12,6 +12,7 @@
 
     <!--CSS-->
     <link rel="stylesheet" href="css/semantic.min.css">
+    <link rel="stylesheet" href="css/style.css">
     <!--Javascript-->
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -21,5 +22,6 @@
 
     <!--Customer-->
     <link href="css/style.css" rel="stylesheet">
+    <script src="js/semanticTB.js"></script>
     <script src="js/index.js"></script>
 </head>

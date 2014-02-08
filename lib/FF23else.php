@@ -14,71 +14,46 @@
     <div>
         <div class="ui twelve page grid">
 			<div class="sixteen wide column">
-					<h2>◆◆◆◆◆◆◆◆◆◆◆◆FF23新刊◆◆◆◆◆◆◆◆◆◆◆◆◆◆</h2>
+					<h2>◆◆◆◆◆◆◆◆◆◆◆◆週邊◆◆◆◆◆◆◆◆◆◆◆◆◆◆</h2>
 					<table class="ui basic table">
 					  <tbody>
 					    <tr>
-					      <td><img src="img/3.jpg" alt=""></td>
-					      <td><img src="img/1.jpg" alt=""></td>
-					      <td><img src="img/2.jpg" alt=""></td>
-					    </tr>
-					    <tr class="positive">
-					      <td>書名★ 艦娘的請求<br>
-							題材★ 艦隊收藏<br>
-							尺寸★ B5<br>
-							規格★ 32頁/黑白漫畫<br>
-							類別★ 成年向<br>
-							內容★ 本書分兩篇，有戰艦金剛篇跟空母翔鶴篇<br>
-							後面附3頁空母-瑞鶴-的小短篇。<br>
-							語系★ 繁體中文<br>
-							包裝★ OPP袋裝<br>
-							特典★ 防水卡片貼紙(送完為止)<br>
-							價格★ 150元<br>
-							</td>
-												      <td>書名★酒醉後的告白<br>
-							題材★ 魔法科高中的劣等生<br>
-							尺寸★ B5<br>
-							規格★ 20頁/全彩漫畫<br>
-							類別★ 成年向<br>
-							內容★ 妹妹深雪趁著酒醉跟愛慕已久的哥哥達也告白，<br>
-							跨越兄妹界線的兩人究竟會...？<br>
-							語系★ 日文，附彩色翻譯書<br>
-							包裝★ OPP袋裝<br>
-							特典★ 防水卡片貼紙(送完為止)<br>
-							價格★ 120元<br>
-							</td>
-												      <td>書名★ 本能覺醒<br>
-							題材★ 月神來我家!<br>
-							尺寸★ B5<br>
-							規格★ 18頁/黑白漫畫(附彩頁)<br>
-							類別★ 成年向<br>
-							內容★ 調皮搗蛋的愛妮，用媚藥讓忍在露娜跟五行間<br>
-							做出選擇，到底最後忍會選擇誰呢？<br>
-							語系★ 日文，附彩色翻譯書<br>
-							包裝★ OPP袋裝<br>
-							特典★ 防水卡片貼紙<br>
-							價格★ 100元<br>
-							</td>
-					    </tr>
-					  </tbody>
-					</table>
-					<h2>◆◆◆◆◆◆◆◆◆◆◆◆既刊情報◆◆◆◆◆◆◆◆◆◆◆◆◆◆</h2>
-					<table class="ui basic table">
-					  <tbody>
-					    <tr>
-					      <td><img src="img/1510b8cf40cffc.jpg" height="279" width="200" alt=""></td>
-					      <td><img src="img/15082bb6aee810.jpg" height="279" width="200" alt=""></td>
-					    </tr>
-					    <tr class="positive">
+					      <td><img src="img/152f3828eddc05.jpg" alt=""></td>
 					      <td>
-							[FF20既刊]<br>
-							快樂世界<br>
-							150元<br>
-							</td>
-							<td>
-							[FF21新刊]<br>
-							愛妻與溫泉旅行<br>
-							150元<br>
+					      	品名★厚質的門簾海報組<br>
+							尺寸★ B3<br>
+							包裝★ 專屬半透明PVC袋裝<br>
+							價格★ 150元<br>
+							(單張不附PVC袋，只有套裝才有)<br>
+					      </td>
+					    </tr>
+					    <tr>
+					      <td><img src="img/152f3828f858e8.jpg" alt=""></td>
+					      <td>
+							品名★FF23紀念紙袋<br>
+							尺寸★ A3br<br>
+							價格★ 50元<br>
+					      </td>
+					    </tr>
+					    <tr>
+					      <td><img src="img/152f48c2b9983d.jpg"></td>
+					      <td>
+							(注意:預約的人才有限定資料夾，會場販售是單體掛軸。
+金剛因為時間關係，所以只有會場販售，還請各位多多包涵>_<)
+					      </td>
+					    </tr>
+					    <tr>
+					      <td><img src="img/152f394ae31ede.jpg" alt=""></td>
+					      <td>
+							(金剛的部分是委託台灣廠商製作)
+					      </td>
+					    </tr>
+					    <tr>
+					      <td><img src="img/152f388c628ecf.jpg" alt=""></td>
+					      <td>
+							(電池是內裝)
+
+					      </td>
 					    </tr>
 					  </tbody>
 					</table>

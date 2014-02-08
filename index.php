@@ -1,10 +1,8 @@
 <?php
     include_once("indexInfo.php");
 ?>
-
-
-    <div ng-view></div>
-
-
+	<body>
+		<div ng-view></div>
+	</body>
 
 </html>
