@@ -36,24 +36,21 @@
 					      </td>
 					    </tr>
 					    <tr>
-					      <td><img src="img/152f48c2b9983d.jpg"></td>
-					      <td>
-							(注意:預約的人才有限定資料夾，會場販售是單體掛軸。
-金剛因為時間關係，所以只有會場販售，還請各位多多包涵>_<)
-					      </td>
-					    </tr>
-					    <tr>
-					      <td><img src="img/152f394ae31ede.jpg" alt=""></td>
-					      <td>
-							(金剛的部分是委託台灣廠商製作)
-					      </td>
-					    </tr>
-					    <tr>
 					      <td><img src="img/152f388c628ecf.jpg" alt=""></td>
+					      <td><img src="img/152f48c2b9983d.jpg"></td>
+					    </tr>
+					    <tr>
+					      <td>(注意:預約的人才有限定資料夾，會場販售是單體掛軸。<br>
+金剛因為時間關係，所以只有會場販售，還請各位多多包涵>_<)</td>
+					      <td>(金剛的部分是委託台灣廠商製作)</td>
+					    </tr>
+					    <tr>
 					      <td>
-							(電池是內裝)
-
+							<img src="img/152f394ae31ede.jpg" alt="">
 					      </td>
+					    </tr>
+					    <tr>
+					      <td>(電池是內裝)</td>
 					    </tr>
 					  </tbody>
 					</table>
